@@ -1,0 +1,22 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "Heroku Link: https://api-server01.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeylinBrooks/api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeylinBrooks/api-server/issues"
+  },
+  "homepage": "https://github.com/CeylinBrooks/api-server#readme",
+  "dependencies": {
+    "mongoose": "^5.12.5"
+  }
+}
